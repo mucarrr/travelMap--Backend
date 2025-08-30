@@ -56,4 +56,4 @@ State management in React applications
 This project demonstrates my ability to build complete, production-ready applications from concept to deployment. Every feature is fully functional and ready for real-world use!
 
 # Preview of the project
-[](TravelApp.gif)
+![](travelApp.gif)
