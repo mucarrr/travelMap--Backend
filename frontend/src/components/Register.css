@@ -1,0 +1,63 @@
+.registerContainer{
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+}
+.logo{
+    color: slateblue;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.registerButton{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: slateblue;
+    cursor: pointer;
+}
+.registerButton:hover{
+    background-color: #1d2a5f;
+}
+.success{
+    color: green;
+    font-size: 11px;
+    text-align: center;
+}
+.failure{
+    color: red;
+    font-size: 11px;
+    text-align: center;
+}
+.registerCancel{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: slateblue;
+    font-size: 18px;
+}

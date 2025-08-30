@@ -1,0 +1,102 @@
+[
+  {
+    "username": "merve",
+    "title": "Eiffel Tower",
+    "desc": "Iconic iron lattice tower on the Champ de Mars in Paris",
+    "rating": 5,
+    "lat": 48.8584,
+    "long": 2.2945,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "username": "john_doe",
+    "title": "Colosseum",
+    "desc": "Ancient amphitheater in the center of Rome",
+    "rating": 4,
+    "lat": 41.8902,
+    "long": 12.4922,
+    "createdAt": "2024-01-16T14:20:00.000Z",
+    "updatedAt": "2024-01-16T14:20:00.000Z"
+  },
+  {
+    "username": "travel_lover",
+    "title": "Sagrada Familia",
+    "desc": "Famous church designed by Antoni Gaudí in Barcelona",
+    "rating": 5,
+    "lat": 41.4036,
+    "long": 2.1744,
+    "createdAt": "2024-01-17T09:15:00.000Z",
+    "updatedAt": "2024-01-17T09:15:00.000Z"
+  },
+  {
+    "username": "adventure_seeker",
+    "title": "Acropolis",
+    "desc": "Ancient citadel located on a rocky outcrop above Athens",
+    "rating": 4,
+    "lat": 37.9715,
+    "long": 23.7267,
+    "createdAt": "2024-01-18T16:45:00.000Z",
+    "updatedAt": "2024-01-18T16:45:00.000Z"
+  },
+  {
+    "username": "culture_explorer",
+    "title": "Tower Bridge",
+    "desc": "Victorian bridge over the River Thames in London",
+    "rating": 3,
+    "lat": 51.5055,
+    "long": -0.0754,
+    "createdAt": "2024-01-19T11:30:00.000Z",
+    "updatedAt": "2024-01-19T11:30:00.000Z"
+  },
+  {
+    "username": "history_buff",
+    "title": "Neuschwanstein Castle",
+    "desc": "Fairy-tale castle in the Bavarian Alps of Germany",
+    "rating": 5,
+    "lat": 47.5576,
+    "long": 10.7498,
+    "createdAt": "2024-01-20T08:00:00.000Z",
+    "updatedAt": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "username": "nature_lover",
+    "title": "Swiss Alps",
+    "desc": "Breathtaking mountain range in Switzerland",
+    "rating": 4,
+    "lat": 46.8182,
+    "long": 8.2275,
+    "createdAt": "2024-01-21T12:30:00.000Z",
+    "updatedAt": "2024-01-21T12:30:00.000Z"
+  },
+  {
+    "username": "architecture_fan",
+    "title": "Prague Castle",
+    "desc": "Historic castle complex in Prague, Czech Republic",
+    "rating": 5,
+    "lat": 50.0900,
+    "long": 14.4000,
+    "createdAt": "2024-01-22T15:45:00.000Z",
+    "updatedAt": "2024-01-22T15:45:00.000Z"
+  },
+  {
+    "username": "beach_goer",
+    "title": "Amalfi Coast",
+    "desc": "Stunning coastline in southern Italy",
+    "rating": 4,
+    "lat": 40.6340,
+    "long": 14.6027,
+    "createdAt": "2024-01-23T10:20:00.000Z",
+    "updatedAt": "2024-01-23T10:20:00.000Z"
+  },
+  {
+    "username": "city_explorer",
+    "title": "Amsterdam Canals",
+    "desc": "Beautiful canal system in the heart of Amsterdam",
+    "rating": 5,
+    "lat": 52.3676,
+    "long": 4.9041,
+    "createdAt": "2024-01-24T14:10:00.000Z",
+    "updatedAt": "2024-01-24T14:10:00.000Z"
+  }
+]
